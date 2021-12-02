@@ -1,7 +1,7 @@
 # advent-2021
 
 Repo for the [Advent of Code 2021](https://adventofcode.com/2021).
-As [last year](https://github.com/pierrefourgeaud/advent-2020), I will try to use as many different langages as possible. Most will be langages never used or from university. That will be fun!
+As [last year](https://github.com/pierrefourgeaud/advent-2020), I will try to use as many different languages as possible. Most will be languages never used or from university. That will be fun!
 
 - [Day 1](./day-1/README.md): [Assembly x86 Intel](https://en.wikipedia.org/wiki/X86_assembly_language)
 - Day 2:
