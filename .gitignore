@@ -1,0 +1,12 @@
+# Editors
+.vscode
+.swp
+*~
+
+# General binaries
+a.out
+main
+main.o
+
+# Random
+.save
