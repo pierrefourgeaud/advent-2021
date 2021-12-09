@@ -8,6 +8,7 @@ a.out
 main
 main.o
 main.hi
+main.jar
 
 # Random
 .save

@@ -6,7 +6,7 @@ As [last year](https://github.com/pierrefourgeaud/advent-2020), I will try to us
 - [Day 1](./day-1/README.md): [Assembly x86 Intel](https://en.wikipedia.org/wiki/X86_assembly_language)
 - [Day 2](./day-2/README.md): [Haskell](https://www.haskell.org/)
 - [Day 3](./day-3/README.md): [Erlang](https://www.erlang.org/)
-- Day 4:
+- [Day 4](./day-4/README.md): [Kotlin](https://kotlinlang.org/)
 - Day 5:
 - Day 6:
 - Day 7:
