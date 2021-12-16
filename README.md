@@ -9,7 +9,7 @@ As [last year](https://github.com/pierrefourgeaud/advent-2020), I will try to us
 - [Day 4](./day-4/README.md): [Kotlin](https://kotlinlang.org/)
 - [Day 5](./day-5/README.md): [Scala 3](https://scala-lang.org/)
 - [Day 6](./day-6/README.md): [OCaml](https://ocaml.org/)
-- Day 7:
+- [Day 7](./day-7/README.md): [Clojure](https://clojure.org/)
 - Day 8:
 - Day 9:
 - Day 10:
