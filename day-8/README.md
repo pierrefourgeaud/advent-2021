@@ -1,4 +1,4 @@
-# Day 6
+# Day 8
 
 This day was made with `Julia`.
 
